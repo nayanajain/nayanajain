@@ -1,7 +1,7 @@
 ### Hello World!! 👋, my name is Nayana Jain<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am Exploring in the field of Java Backend Development (Spring Framework).
+I am an aspiring FullStack developer.
 
 I am also doing my hands dirty on Open Source Development.
 
